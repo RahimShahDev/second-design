@@ -2,7 +2,8 @@ body{
     padding: 0px;
     margin: 0px;
 }
-#home{
+.home{
+    background: url('./image/home.jpg') no-repeat center center / cover;
     height: 100vh;
     /* background-color: red; */
 }
