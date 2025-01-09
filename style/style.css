@@ -5,7 +5,6 @@ body{
 .home{
     background: url('./image/home.jpg') no-repeat center center / cover;
     height: 100vh;
-    /* background-color: red; */
 }
 .header{
     display: flex;
